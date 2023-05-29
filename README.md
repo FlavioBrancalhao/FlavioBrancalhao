@@ -46,5 +46,5 @@
 
   
   
-  #Certificados
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="Avatar-Maker.png">
+  ## Certificados
+  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="react.jpg">
