@@ -47,4 +47,4 @@
   
   
   ## Certificados
-  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="react.jpg"> <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="anhanguera.jpg">
+  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="react.jpg"> <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="anhanguera.jpg"><img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="php.jpg"><img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="gitcurso.jpg">
