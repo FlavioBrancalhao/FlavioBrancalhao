@@ -48,18 +48,12 @@
   ## Certificados
 
 <div style="display: inline_block"><br>
-
     <img align="left"  height="150" style="border-radius:50px;" width="221"  src="react.jpg"> 
-  
     <img align="left" height="150" style="border-radius:50px;" width="221" src="anhanguera.jpg">
-  
 </div>
 
 
   <div  style="display: inline_block">
-    
     <img align="left"  height="150" style="border-radius:50px;" width="221" src="php.jpg">
-    
     <img align="left"  height="150" style="border-radius:50px;" width="221" src="gitcurso.jpg">
-    
 </div>
