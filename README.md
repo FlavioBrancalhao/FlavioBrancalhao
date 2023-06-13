@@ -48,13 +48,12 @@
 
   ## Certificados
 
-<div style="display: inline_block"><br>
-    <img align="left"  height="150" style="border-radius:50px;" width="221"  src="react.jpg"> 
-    <img align="left" height="150" style="border-radius:50px;" width="221" src="anhanguera.jpg">
-</div>
+![react](react.jpg)
+![react](anhanguera.jpg)
+![react](php.jpg)
+![react](gitcurso.jpg)
+![react]([gitcurso.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcannonbreedpixels.tumblr.com%2Fpage%2F4&psig=AOvVaw0mBfRSao_rwZmMJwUBWBqq&ust=1686784812955000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjgtoWxwf8CFQAAAAAdAAAAABBm)https://www.google.com/url?sa=i&url=https%3A%2F%2Fcannonbreedpixels.tumblr.com%2Fpage%2F4&psig=AOvVaw0mBfRSao_rwZmMJwUBWBqq&ust=1686784812955000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjgtoWxwf8CFQAAAAAdAAAAABBm)
 
 
-  <div  style="display: inline_block">
-    <img align="left"  height="150" style="border-radius:50px;" width="221" src="php.jpg">
-    <img align="left"  height="150" style="border-radius:50px;" width="221" src="gitcurso.jpg">
-</div>
+
+
