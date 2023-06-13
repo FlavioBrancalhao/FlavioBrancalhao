@@ -1,4 +1,4 @@
-## Oiii eu sou a Flavio Brancalhão, criador de conteúdo de programação e tecnologia!
+## Oi eu sou a Flavio Brancalhão, programação e tecnologia!
 
 <div align="center">
 
@@ -12,21 +12,21 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="Avatar-Maker.png">
+  <img align="right"  height="150" style="border-radius:50px;" src="Avatar-Maker.png">
 
 </div>
 
@@ -39,12 +39,27 @@
 <div> 
 
  
-
+<div>
   <a href = "mailto:fgbrancalhao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <a href="https://www.linkedin.com/in/flavio-brancalhao-659574169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
-  
+</div>
   ## Certificados
-  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="react.jpg"> <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="anhanguera.jpg"><img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="php.jpg"><img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="gitcurso.jpg">
+
+<div style="display: inline_block"><br>
+
+    <img align="left"  height="150" style="border-radius:50px;" width="221"  src="react.jpg"> 
+  
+    <img align="left" height="150" style="border-radius:50px;" width="221" src="anhanguera.jpg">
+  
+</div>
+
+
+  <div  style="display: inline_block">
+    
+    <img align="left"  height="150" style="border-radius:50px;" width="221" src="php.jpg">
+    
+    <img align="left"  height="150" style="border-radius:50px;" width="221" src="gitcurso.jpg">
+    
+</div>
