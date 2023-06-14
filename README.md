@@ -14,7 +14,7 @@
 
 #### Desenvolvedor(a) web com formação em Análise e Desenvolvimento de Sistemas. Especializado(a) em HTML, CSS, JavaScript e React. Apaixonado(a) por criar interfaces intuitivas e responsivas. Comprometido(a) em entregar soluções de qualidade e acompanhar as tendências tecnológicas. Busco constantemente aprimorar minhas habilidades para desenvolver experiências digitais inovadoras.
 
-## Meus conhecimentos
+## Meus conhecimentos 💻
 
 <div style="display: inline_block"><br>
 
@@ -97,7 +97,7 @@
 ༼ つ ◕_◕ ༽つ Obrigado por ler 
 
 
-  ## Certificados
+  ## Certificados 📝
 
 ![](react.jpg)
 ![](anhanguera.jpg)
