@@ -44,12 +44,12 @@
 
 
 
-  #### ▶HTML(Hypertext Markup Language):
- ####  Linguagem de marcação usada para estruturar o conteúdo de páginas da web.
+#### ▶HTML(Hypertext Markup Language):
+####  Linguagem de marcação usada para estruturar o conteúdo de páginas da web.
 #### ▶ CSS (Cascading Style Sheets):
- #### Linguagem de estilo usada para estilizar e formatar páginas da web, fornecendo layout e design visual.
+#### Linguagem de estilo usada para estilizar e formatar páginas da web, fornecendo layout e design visual.
 #### ▶ JavaScript:
-####Linguagem de programação de alto nível que permite adicionar interatividade e comportamento dinâmico às páginas da web.
+#### Linguagem de programação de alto nível que permite adicionar interatividade e comportamento dinâmico às páginas da web.
 #### ▶ React:
 #### Biblioteca JavaScript popular para construção de interfaces de usuário reativas e componentes reutilizáveis.
 #### ▶ PHP:
@@ -79,12 +79,7 @@
 ###### Somente telegram
 
 
-  ## Certificados
 
-![](react.jpg)
-![](anhanguera.jpg)
-![](php.jpg)
-![](gitcurso.jpg)
 ## Descanse um pouco depois de absolver tanta informação 🔥😉
 ![](https://64.media.tumblr.com/3b5440683e71e2d39f998c6ed99c3feb/tumblr_ord7ll2peg1sx56xso1_1280.gifv)
 
@@ -92,6 +87,19 @@
 
 ### Sobre mim 
 
-### Sou um amante da tecnologia e programação, e meu coração bate mais forte pelos jogos de vídeo game e pelo incrível universo dos filmes de super-heróis. Além disso, sou um cinéfilo de carteirinha, sempre em busca de emoção nas telonas. Adoro compartilhar minha paixão por jogos, tecnologia, cinema e super-heróis com a galera. Se quiser trocar ideias sobre esses assuntos, estou sempre pronto(a) para uma boa conversa!
+### Sou um amante da tecnologia e programação, e meu coração bate mais forte pelos jogos de vídeo game e pelo incrível universo dos filmes de super-heróis. Além disso, sou um cinéfilo de carteirinha, sempre em busca de emoção nas telonas. Adoro compartilhar minha paixão por jogos, tecnologia, cinema e super-heróis com a galera. Se quiser trocar ideias sobre esses assuntos, estou sempre pronto para uma boa conversa!
+
+## Projetos 📽
+
+### QR Pet
+
+#### QR Pet é um projeto React inovador que tem como objetivo auxiliar na localização de animais de estimação perdidos. Utilizando a tecnologia de códigos QR, o aplicativo permite que os usuários gerem etiquetas personalizadas com QR codes exclusivos para seus pets. Quando alguém encontra um animal perdido, basta escanear o QR code com um smartphone para obter informações vitais sobre o animal e entrar em contato com seu dono. O QR Pet oferece uma interface intuitiva e fácil de usar, permitindo que os usuários registrem informações importantes sobre seus animais, como nome, descrição, contatos de emergência e até mesmo informações médicas relevantes. Com o QR Pet, encontrar e reunir animais de estimação perdidos com seus donos torna-se uma tarefa mais rápida e eficiente, ajudando a trazer segurança e alívio para os amantes de animais.
+༼ つ ◕_◕ ༽つ Obrigado por ler 
 
 
+  ## Certificados
+
+![](react.jpg)
+![](anhanguera.jpg)
+![](php.jpg)
+![](gitcurso.jpg)
