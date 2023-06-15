@@ -100,7 +100,7 @@
 ## links de projetos 
 
 ### React
-* [BsnagoCine]([https://expo.io/](https://bsnagacine.netlify.app/)
+* [BsnagoCine](https://bsnagacine.netlify.app/)
 
   ## Certificados 📝
 
