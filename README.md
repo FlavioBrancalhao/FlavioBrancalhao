@@ -97,6 +97,11 @@
 ༼ つ ◕_◕ ༽つ Obrigado por ler 
 
 
+## links de projetos 
+
+### React
+* [BsnagoCine]([https://expo.io/](https://bsnagacine.netlify.app/)
+
   ## Certificados 📝
 
 ![](react.jpg)
