@@ -101,6 +101,7 @@
 
 ### React
 * [BsnagoCine](https://bsnagacine.netlify.app/)
+* [QrPet](https://qrpet.vercel.app/)
 
   ## Certificados 📝
 
