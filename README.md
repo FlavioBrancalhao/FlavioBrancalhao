@@ -56,19 +56,22 @@
 
 
 #### ▶HTML(Hypertext Markup Language):
-####  Linguagem de marcação usada para estruturar o conteúdo de páginas da web.
+
 #### ▶ CSS (Cascading Style Sheets):
-#### Linguagem de estilo usada para estilizar e formatar páginas da web, fornecendo layout e design visual.
+
 #### ▶ JavaScript:
-#### Linguagem de programação de alto nível que permite adicionar interatividade e comportamento dinâmico às páginas da web.
+
 #### ▶ React:
-#### Biblioteca JavaScript popular para construção de interfaces de usuário reativas e componentes reutilizáveis.
+
 #### ▶ PHP:
-#### Linguagem de script do lado do servidor usada principalmente para desenvolvimento web, permitindo a criação de páginas dinâmicas e interação com bancos de dados.
+
 #### ▶ SQL (Structured Query Language):
-#### Linguagem usada para comunicar-se com bancos de dados relacionais, permitindo a criação, manipulação e consulta de dados.
+
 #### ▶ MySQL:
-#### Sistema de gerenciamento de banco de dados relacional amplamente utilizado, que permite armazenar, gerenciar e recuperar dados de forma eficiente.
+
+### ▶ Vite: 
+
+### ▶ Tailwind
 
 ## Formas de contato 📱
 
