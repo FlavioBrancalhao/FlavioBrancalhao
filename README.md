@@ -55,21 +55,21 @@
 
 
 
-#### ▶HTML(Hypertext Markup Language):
+#### ▶HTML
 
-#### ▶ CSS (Cascading Style Sheets):
+#### ▶ CSS 
 
-#### ▶ JavaScript:
+#### ▶ JavaScript
 
-#### ▶ React:
+#### ▶ React
 
-#### ▶ PHP:
+#### ▶ PHP
 
-#### ▶ SQL (Structured Query Language):
+#### ▶ SQL (Structured Query Language)
 
-#### ▶ MySQL:
+#### ▶ MySQL
 
-### ▶ Vite: 
+### ▶ Vite 
 
 ### ▶ Tailwind
 
