@@ -107,13 +107,19 @@ Desenvolvedor(a) web com formação em Análise e Desenvolvimento de Sistemas. E
 
  QR Pet
 
-#### QR Pet é um projeto React inovador que tem como objetivo auxiliar na localização de animais de estimação perdidos. Utilizando a tecnologia de códigos QR, o aplicativo permite que os usuários gerem etiquetas personalizadas com QR codes exclusivos para seus pets. Quando alguém encontra um animal perdido, basta escanear o QR code com um smartphone para obter informações vitais sobre o animal e entrar em contato com seu dono. O QR Pet oferece uma interface intuitiva e fácil de usar, permitindo que os usuários registrem informações importantes sobre seus animais, como nome, descrição, contatos de emergência e até mesmo informações médicas relevantes. Com o QR Pet, encontrar e reunir animais de estimação perdidos com seus donos torna-se uma tarefa mais rápida e eficiente, ajudando a trazer segurança e alívio para os amantes de animais.
-༼ つ ◕_◕ ༽つ Obrigado por ler 
+#### QR Pet é um projeto React inovador que tem como objetivo auxiliar na localização de animais de estimação perdidos. Utilizando a tecnologia de códigos QR, o aplicativo permite que os usuários gerem etiquetas personalizadas com QR codes exclusivos para seus pets. Quando alguém encontra um animal perdido, basta escanear o QR code com um smartphone para obter informações vitais sobre o animal e entrar em contato com seu dono. O QR Pet oferece uma interface intuitiva e fácil de usar, permitindo que os usuários registrem informações importantes sobre seus animais, como nome, descrição, contatos de emergência e até mesmo informações médicas relevantes. Com o QR Pet, encont rar e reunir animais de estimação perdidos com seus donos torna-se uma tarefa mais rápida e eficiente, ajudando a trazer segurança e alívio para os amantes de animais.
 
+#### Placar de tenis
 
- links de projetos 
+ # Placar dee Tenis é um site totalmente em JS para que jogadores de tenis utilizem para marcar pontos tendo em seu código todo estilo de marcação de pontos ate o desempate(Tie break) acontecido no game 5|5 podendo chegar 7 quando fica 6|6 ele se ativa para que possa ser pontuado em pontos corridos
 
- React
+#### Atelie Garcia 
+
+## Projeto realizado para marketing de uma cliente muito importante ❤️ mas com todo proficionalismo seguindo cada etapa de desenvolvimento documentação | design | desenvolvimento. 
+
+links de projetos 
+
+ 
 * [BsnagoCine](https://bsnagacine.netlify.app/)
 * [QrPet](https://qrpet.vercel.app/)
 * [Placar de Tenis](https://placartenis.netlify.app/)
@@ -126,3 +132,5 @@ Desenvolvedor(a) web com formação em Análise e Desenvolvimento de Sistemas. E
 ![](anhanguera.jpg)
 ![](php.jpg)
 ![](gitcurso.jpg)
+
+༼ つ ◕_◕ ༽つ Obrigado por ler
