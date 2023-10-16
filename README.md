@@ -115,7 +115,7 @@ Placar dee Tenis é um site totalmente em JS para que jogadores de tenis utilize
 
 Atelie Garcia 
 
-Projeto realizado para marketing de uma cliente muito importante ❤️ mas com todo proficionalismo seguindo cada etapa de desenvolvimento documentação | design | desenvolvimento. 
+Projeto realizado para marketing de uma cliente muito importante ❤️ mas com todo profissionalismo seguindo cada etapa de desenvolvimento documentação | design | desenvolvimento. 
 
 links de projetos 
 
