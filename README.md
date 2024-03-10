@@ -124,7 +124,7 @@ links de projetos
 * [QrPet](https://qrpet.vercel.app/)
 * [Placar de Tenis](https://placartenis.netlify.app/)
 * [Atelie Garcia](https://ateliegarcia.netlify.app)
-  
+* [Tha tatto studio freelancer](https://thaitattoostudio.com.br/)
 
    Certificados 📝
 
