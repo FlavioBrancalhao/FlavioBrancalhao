@@ -68,15 +68,15 @@ Analista de Service Desk (suporte)
 <div>
   <a href = "mailto:fgbrancalhao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-   
+</div>
+
 
 [Acesse meu LinkedIn](https://www.linkedin.com/in/flaviobrancalhao)
 
+[WhatsApp](https://wa.me/5511987704919)
 
 
 
-
-</div>
 
 
 
