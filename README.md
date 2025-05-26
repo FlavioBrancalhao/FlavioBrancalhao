@@ -40,7 +40,7 @@ Analista de Service Desk (suporte)
 ### 🟢 2018 - 2020
 - Curso de **Análise e Desenvolvimento de Sistemas** — *Anhanguera Educacional*
 
-### 🔴 2020 - 2021
+### 🔴 2020 - 2023
 - **Analista de Service Desk** — *TIM (PJ)*
 
 ### 🟢 2023 - 2025
