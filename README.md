@@ -1,8 +1,14 @@
- Flavio Brancalhão (⌐■_■)
- Desenvolvimento front end ❤
+**Flavio Brancalhão (⌐■_■)**
+
+**Objetivo Primário:**  
+Desenvolvimento front end ❤
+
+**Objetivo Secundário:**  
+Analista de Service Desk (suporte)
 
  Menu:
 * Sobre e Github
+* linha do tempo profissional
 * Ferramenta e conhecimento
 * Contato
 * sobre mim
@@ -22,56 +28,37 @@
 
 </div>
 
+## 🧑‍💼 Linha do Tempo Profissional
 
-Desenvolvedor(a) web com formação em Análise e Desenvolvimento de Sistemas. Especializado(a) em HTML, CSS, JavaScript e React. Apaixonado(a) por criar interfaces intuitivas e responsivas. Comprometido(a) em entregar soluções de qualidade e acompanhar as tendências tecnológicas. Busco constantemente aprimorar minhas habilidades para desenvolver experiências digitais inovadoras.
+### 🟢 2015 - 2016
+- **Menor Aprendiz** — *Sonda Supermercados*  
+- Curso Profissionalizante em **Administração de Supermercados**
+
+### 🔴 2016 - 2018
+- **Separador de Mercadorias** — *Sonda Supermercados*
+
+### 🟢 2018 - 2020
+- Curso de **Análise e Desenvolvimento de Sistemas** — *Anhanguera Educacional*
+
+### 🔴 2020 - 2021
+- **Analista de Service Desk** — *TIM (PJ)*
+
+### 🟢 2023 - 2025
+- **Analista de Telecom** — *Ativu - Verzani e Sandrini*
 
 ## Meus conhecimentos 💻
 
 <div style="display: inline_block"><br>
 
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-
-
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
-
-
-  <img align="right"  height="150" style="border-radius:50px;" src="Avatar-Maker.png">
 
 </div>
 
   
 
- 
-
-
-
-
-
-▶ HTML
-
-▶ CSS 
-
- ▶ JavaScript
-
- ▶ React
-
- ▶ PHP
-
- ▶ SQL (Structured Query Language)
-
- ▶ MySQL
-
- ▶ Vite 
-
- ▶ Tailwind
+▶ **HTML** &nbsp;&nbsp;&nbsp; ▶ **CSS** &nbsp;&nbsp;&nbsp; ▶ **JavaScript** &nbsp;&nbsp;&nbsp; ▶ **React**  
+▶ **PHP** &nbsp;&nbsp;&nbsp; ▶ **SQL** &nbsp;&nbsp;&nbsp; ▶ **MySQL** &nbsp;&nbsp;&nbsp; ▶ **Vite**  
+▶ **Tailwind**
 
 ## Formas de contato 📱
 
@@ -83,9 +70,9 @@ Desenvolvedor(a) web com formação em Análise e Desenvolvimento de Sistemas. E
 
    
 
- [Acesse meu linkedin](www.linkedin.com/in/flaviobrancalhao)
+[Acesse meu LinkedIn](https://www.linkedin.com/in/flaviobrancalhao)
 
-)
+
 
 
 
@@ -93,10 +80,7 @@ Desenvolvedor(a) web com formação em Análise e Desenvolvimento de Sistemas. E
 
 
 
-## Descanse um pouco depois de absolver tanta informação 🔥😉
-![](https://64.media.tumblr.com/3b5440683e71e2d39f998c6ed99c3feb/tumblr_ord7ll2peg1sx56xso1_1280.gifv)
 
- Continuando 🚶🏻‍♂️
 
 ## Sobre mim 
 
@@ -131,5 +115,7 @@ links de projetos
 ![](anhanguera.jpg)
 ![](php.jpg)
 ![](gitcurso.jpg)
+
+
 
 ༼ つ ◕_◕ ༽つ Obrigado por ler
