@@ -91,6 +91,7 @@ Adoro compartilhar minha paixão por jogos, tecnologia, cinema e super-heróis c
 ![](anhanguera.jpg)
 ![](php.jpg)
 ![](gitcurso.jpg)
+![](certificado.pdf)
 
 ---
 
