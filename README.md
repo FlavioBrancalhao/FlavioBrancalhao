@@ -2,8 +2,9 @@
 
 ## 🎯 Objetivos
 
-**Primário:** Desenvolvimento Front-End ❤  
+**Primário:** Analista de segurança da informação ❤  
 **Secundário:** Analista de Service Desk (Suporte Técnico)
+Analista de desenvolvimento front end 
 
 ---
 
