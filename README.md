@@ -4,7 +4,7 @@
 
 **Primário:** Analista de segurança da informação ❤  
 **Secundário:** Analista de Service Desk (Suporte Técnico)
-Analista de desenvolvimento front end 
+| Analista de desenvolvimento front end 
 
 ---
 
@@ -30,9 +30,7 @@ Analista de desenvolvimento front end
 
 ## 💻 Meus Conhecimentos
 
-▶ **HTML** &nbsp;&nbsp;&nbsp; ▶ **CSS** &nbsp;&nbsp;&nbsp; ▶ **JavaScript** &nbsp;&nbsp;&nbsp; ▶ **React**  
-▶ **PHP** &nbsp;&nbsp;&nbsp; ▶ **SQL** &nbsp;&nbsp;&nbsp; ▶ **MySQL** &nbsp;&nbsp;&nbsp; ▶ **Vite**  
-▶ **Tailwind**
+REACT | SQL | TAILWIND | LGPD | IAM 
 
 
 ---
