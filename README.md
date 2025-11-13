@@ -92,6 +92,7 @@ Adoro compartilhar minha paixão por jogos, tecnologia, cinema e super-heróis c
 ![](gitcurso.jpg)
 ![](LGPD.jpg)
 ![](scrumekambam.jpg)
+![](iam.jpg)
 
 ---
 
