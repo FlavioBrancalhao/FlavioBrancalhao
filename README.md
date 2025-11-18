@@ -1,5 +1,7 @@
 # **Flavio Brancalhão** (⌐■_■)
 
+[Curriculo](https://drive.google.com/file/d/10JzxTdDJrBlR6-MwJbxT-_1ebuEcfnnD/view?usp=sharing)
+
 ## 🎯 Objetivos
 
 **Primário:** Analista de segurança da informação ❤  
