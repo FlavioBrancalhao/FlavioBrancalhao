@@ -95,6 +95,7 @@ Adoro compartilhar minha paixão por jogos, tecnologia, cinema e super-heróis c
 ![](LGPD.jpg)
 ![](scrumekambam.jpg)
 ![](iam.jpg)
+![](cs50.jpg)
 
 ---
 
