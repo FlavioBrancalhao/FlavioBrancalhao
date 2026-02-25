@@ -22,7 +22,6 @@ Adoro compartilhar minha paixão por jogos, tecnologia, cinema e super-heróis c
 
 ![](react.jpg)
 ![](anhanguera.jpg)
-![](php.jpg)
 ![](gitcurso.jpg)
 ![](LGPD.jpg)
 ![](scrumekambam.jpg)
