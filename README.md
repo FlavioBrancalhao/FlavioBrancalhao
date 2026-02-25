@@ -22,17 +22,9 @@
 
 ---
 
-## Sobre & GitHub
-
-<div align="center">
-  <a href="https://github.com/flaviobrancalhao" target="_blank">
-    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flaviobrancalhao&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
-
 ## 💻 Meus Conhecimentos
 
-REACT | SQL | TAILWIND | LGPD | IAM 
+ SQL  | LGPD | IAM | Cybersegurança
 
 
 ---
@@ -75,16 +67,6 @@ Adoro compartilhar minha paixão por jogos, tecnologia, cinema e super-heróis c
 
 ---
 
-## 📽 Projetos
-
-- [🎬 BsnagoCine](https://bsnagacine.netlify.app/)
-- [🐾 QrPet](https://qrpet.vercel.app/)
-- [🎾 Placar de Tênis](https://placartenis.netlify.app/)
-- [🧵 Ateliê Garcia](https://ateliegarcia.netlify.app)
-- [🎨 Thai Tattoo Studio (freelancer)](https://thaitattoostudio.com.br/)
-- [🪟 CH Vidros (freelancer)](https://chvidros.vercel.app/)
-
----
 
 ## 📝 Certificados
 
@@ -100,7 +82,5 @@ Adoro compartilhar minha paixão por jogos, tecnologia, cinema e super-heróis c
 ---
 
 <div align="center">
-
-**༼ つ ◕_◕ ༽つ Obrigado por ler!**
 
 </div>
