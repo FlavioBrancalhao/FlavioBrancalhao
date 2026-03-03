@@ -18,17 +18,17 @@ Paralelamente, venho aprofundando meus estudos em Segurança da Informação, co
 
 ## 📚 Roadmap – Redes
 
-| Fundamentos | Protocolos |
-|-------------|------------|
-| LAN x WAN | TCP x UDP |
-| Modelo OSI | DNS (53) |
-| Modelo TCP/IP | DHCP (67/68) |
-| NAT | HTTP (80) / HTTPS (443) |
-| IP, Máscara e Gateway | SSH (22) |
+| Fundamentos | Protocolos |Infraestrutura | Segurança básica em rede 
+|-------------|------------|--------------|--------------|
+| LAN x WAN | TCP x UDP |Switch x Roteador | Portas abertas 
+| Modelo OSI | DNS (53) |Firewall | Port scanning (conceito) 
+| Modelo TCP/IP | DHCP (67/68) |VLAN | Sniffing
+| NAT | HTTP (80) / HTTPS (443) |MAC Address | Segmentação
+| IP, Máscara e Gateway | SSH (22) |ARP | 
 | IP Público x IP Privado | RDP (3389) |
 | ICMP | SMB (445) |
 | Three-Way Handshake (SYN, SYN-ACK, ACK) | SSL/TLS |
-| Tipos de Ataques no Modelo OSI |  |
+| Tipos de Ataques no Modelo OSI |  | 
 
 ## 📚 Roadmap – Sistemas 
 Windows, Linux 
@@ -45,7 +45,9 @@ Em andamento
 Em andamento
 
 ## 📚 Roadmap - Linguagens e tools
-Linguagens: Python (básico), PowerShell | Ferramentas: Git, VirtualBox, Wireshark | Metodologia: Kanban
+|Linguagens | Ferramentas | Metodologia
+|----------|--------------|------------|
+|Python (básico), PowerShell |  Git, VirtualBox, Wireshark | Kanban
 
 ## 📝 Certificados
 
